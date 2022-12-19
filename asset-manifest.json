@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-rick-morty-wiki-app/static/css/main.d1f00e93.css",
+    "main.js": "/react-rick-morty-wiki-app/static/js/main.775ab8ca.js",
+    "static/js/787.e75d53e9.chunk.js": "/react-rick-morty-wiki-app/static/js/787.e75d53e9.chunk.js",
+    "index.html": "/react-rick-morty-wiki-app/index.html",
+    "main.d1f00e93.css.map": "/react-rick-morty-wiki-app/static/css/main.d1f00e93.css.map",
+    "main.775ab8ca.js.map": "/react-rick-morty-wiki-app/static/js/main.775ab8ca.js.map",
+    "787.e75d53e9.chunk.js.map": "/react-rick-morty-wiki-app/static/js/787.e75d53e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f00e93.css",
+    "static/js/main.775ab8ca.js"
+  ]
+}
