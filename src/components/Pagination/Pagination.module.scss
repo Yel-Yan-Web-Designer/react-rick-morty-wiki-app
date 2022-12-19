@@ -1,0 +1,22 @@
+$radius : 5px;
+$bs : 2px 2px 5px hsl(0, 0, 0, 0.5);
+
+.paginationbtn{
+    display: flex;
+    justify-content: center;
+    column-gap: 1em;
+}
+.btn{
+    background: #0b5eb7;
+    border-radius: $radius;
+    box-shadow: $bs;
+    color: hsl(100, 100%, 100%);
+    padding: 0.3em 0.7em;
+    transition: 0.3s ease-out;
+    cursor: pointer;
+
+    &:hover{
+        transform: scale(1.05);
+        box-shadow: none;
+    }
+}

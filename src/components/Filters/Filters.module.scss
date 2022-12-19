@@ -1,0 +1,9 @@
+.clear{
+    cursor: pointer;
+    user-select: none;
+    transition:  all 0s ease-in-out;
+
+    &:hover{
+        color:  hsl(216, 100%, 74%) !important;
+    }
+}

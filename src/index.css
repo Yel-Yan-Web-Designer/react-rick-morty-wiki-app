@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Ubuntu:wght@300;400;500;700&display=swap');
+
+/* ?----------------------- */
+/* ? RESET */
+/* ?----------------------- */
+*,*::after,*::before{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html{
+  scroll-behavior: smooth;
+}
+body{
+  background-color: hsl(100, 100%, 100%);
+  color: hsl(0, 0%, 0%);
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.45;
+}
+h1,h2,h3,h4,h5,p{
+  margin: 0;
+}
+button{
+  outline: none;
+  border: none;
+  display: inline-block;
+}
+.ubuntu{
+  font-family:'Ubuntu', sans-serif;
+}
+a{
+  text-decoration: none !important;
+}
